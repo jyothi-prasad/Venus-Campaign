@@ -1,0 +1,10 @@
+.card {
+  margin-left: auto;
+  border-radius: 10px;
+  border-color: black;
+  border-style: hidden;
+}
+
+.card-img-top{
+  border-radius: 5px;
+}
