@@ -8,3 +8,14 @@
 .card-img-top{
   border-radius: 5px;
 }
+
+.btn{
+  border-radius: 30px;
+  background-color: #444444;
+  color: white;
+  border-color:  #ef6603;
+  border-width: 4px;
+}
+.btn :hover{
+  background-color:  #ef6603;;
+}
