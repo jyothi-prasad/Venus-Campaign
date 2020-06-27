@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #44254;
 }
 
 a {
@@ -268,7 +268,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #2a2c39;
+  color: #6a1a7d;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
