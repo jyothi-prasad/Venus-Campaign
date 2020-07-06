@@ -1,7 +1,7 @@
 .card {
   margin-left: auto;
   border-radius: 10px;
-  border-color: black;
+  border-color: FFA5AF;
   border-style: hidden;
 }
 
@@ -11,11 +11,12 @@
 
 .btn{
   border-radius: 30px;
-  background-color: #444444;
+  background-color: #FFA5AF;
   color: white;
-  border-color:  #ef6603;
+  border-color:  #6A1A7D;
   border-width: 4px;
 }
-.btn :hover{
-  background-color:  #ef6603;;
+.btn :hover {
+  background-color:  #6A1A7D;
+ 
 }
